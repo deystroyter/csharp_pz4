@@ -1,0 +1,7 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 4\FedorovAD_Pz4\obj\Debug\FedorovAD_Pz4.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 4\FedorovAD_Pz4\obj\Debug\FedorovAD_Pz4.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 4\FedorovAD_Pz4\bin\Debug\FedorovAD_Pz4.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 4\FedorovAD_Pz4\bin\Debug\FedorovAD_Pz4.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 4\FedorovAD_Pz4\bin\Debug\FedorovAD_Pz4.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 4\FedorovAD_Pz4\obj\Debug\FedorovAD_Pz4.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 4\FedorovAD_Pz4\obj\Debug\FedorovAD_Pz4.pdb
